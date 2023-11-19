@@ -1,4 +1,4 @@
-# Hi 👋, I'm Halil Temel
+I'm Halil Temel
 ## DevOps & React
 
 <h3 align="left">Languages and Tools:</h3>
